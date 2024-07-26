@@ -46,3 +46,9 @@ addEventListener("DOMContentLoaded", () => {
     observer.observe(elementoHTML);
   });
 });
+
+
+//ejemplo de uso html
+// <div class="counter">
+//  <h2 class="timer count-title count-number" data-to="8000" data-speed="5" data-interval="1" >0</h2>
+//</div>
